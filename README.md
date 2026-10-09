@@ -1,0 +1,1 @@
+# gujrati-pdf-translator
